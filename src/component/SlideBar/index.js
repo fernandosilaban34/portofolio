@@ -1,0 +1,1 @@
+export {SlideCover} from './SlideCover';

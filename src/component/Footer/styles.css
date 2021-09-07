@@ -1,0 +1,21 @@
+.footer-web {
+    background-color: #323445;
+    height: 400px;
+}
+
+.footer-text {
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.img-footer {
+    height: 30px;
+    padding-right: 5%;
+    cursor: pointer;
+}
+
+.img-center {
+    padding-top: 2%;
+    padding-left: 19%;
+}

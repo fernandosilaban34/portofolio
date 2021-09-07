@@ -1,0 +1,22 @@
+.container-box {
+    height: 100px;
+    background-color: #414455;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 1%;
+    cursor: pointer;
+}
+
+.title-box {
+    color: #E3AC5B;
+    font-size: 20px;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.text-box {
+    color: slategrey;
+    padding-left: 5%;
+    font-size: 12px;
+    margin-right: 2%;
+}
